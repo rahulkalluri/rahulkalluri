@@ -13,7 +13,7 @@ class DataScientist:
         self.roles = ["Data Scientist", "Machine Learning Engineer"]
         self.language_spoken = ["en_US"]
         self.degrees = ["Statistics", "Economics"]
-        self.hobbies = ["Too many to list"]
+        self.hobbies = "Too many to list"
 
     def say_hello(self):
         print("Welcome to my space. Feel free to drop me a message!")
